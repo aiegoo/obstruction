@@ -1,6 +1,6 @@
 ## Welcome to GitHub Pages
 <object data="http://yoursite.com/the.pdf" type="application/pdf" width="700px" height="700px">
-    <embed src="http://yoursite.com/the.pdf">
+    <embed src="https://eggs.or.kr/crh/drone_resource/-/blob/8a8c0dbcb7c50f0f5b7541e4c7125fab2ec93437/50.CPP_app.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="https://eggs.or.kr/crh/drone_resource/-/blob/8a8c0dbcb7c50f0f5b7541e4c7125fab2ec93437/50.CPP_app.pdf">Download PDF</a>.</p>
     </embed>
 </object>
