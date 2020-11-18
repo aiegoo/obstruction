@@ -10,16 +10,16 @@ You can use the [editor on GitHub](https://github.com/aiegoo/obstruction/edit/ma
 
 Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
 
-### Markdown
+### obstruction
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+Obstruction is a territory game to play against each other in order to obsruct the opponent to dominate the world.
 
 ```markdown
-Syntax highlighted code block
+Here is the key rules of the game
 
-# Header 1
-## Header 2
-### Header 3
+# rule 1
+## rule 2
+### rule 3
 
 - Bulleted
 - List
@@ -27,17 +27,18 @@ Syntax highlighted code block
 1. Numbered
 2. List
 
-**Bold** and _Italic_ and `Code` text
+**Player** and _Opponent_ and `Territory` wqar
 
 [Link](url) and ![Image](src)
 ```
 
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
+For more details see [blog](http://www.papg.com/show?2XMX).
 
 ### Jekyll Themes
 
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/aiegoo/obstruction/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
+You can select styles for dark and light console color.
+[repository settings](https://github.com/aiegoo/obstruction/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [documentation](https://docs.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+Having trouble with Pages? Check out our [Game Center](aiegoo.github.io/) or [contact support](https://36io.co) and we’ll help you sort it out.
