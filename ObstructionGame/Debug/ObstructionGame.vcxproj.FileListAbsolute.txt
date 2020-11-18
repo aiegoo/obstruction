@@ -1,0 +1,2 @@
+X:\Unity Projects\PuzzleGame\cplus\ObstructionGame\Debug\ObstructionGame.exe
+X:\Unity Projects\PuzzleGame\cplus\ObstructionGame\Debug\ObstructionGame.pdb
