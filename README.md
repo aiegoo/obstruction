@@ -48,11 +48,11 @@ Having trouble with Pages? Check out our [Game Center](aiegoo.github.io/) or [co
 `TL;DR`
 
 ### dEvelopment story
-[project management](https://github.com/aiegoo/cplus/projects/1) \
+[project management](https://github.com/aiegoo/cplus/projects/1) 
 - Solo Flight background story
-```
+<p style="align: center">
 I hate C++ as I rarely liked the language specific programmers. They are rare in numbers and alas in characters too. But then it has been some paramount challenge for me hard to climb it over, notwithstanding becoming one, I admit. I still have the reservation to start on this path, but who knows the future?
-```
+</p>
 ### Game process
 ![step 1 & 2](images/obstruction1.png)
 <hr>
