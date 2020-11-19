@@ -1,4 +1,6 @@
 ## Welcome to Obstruction Help Pages
+
+> Assignment Manual (recommended features included but not required)
 <object data="https://github.com/aiegoo/obstruction/blob/master/50.CPP_app.pdf" type="application/pdf" width="700px" height="700px">
     <embed src="https://github.com/aiegoo/obstruction/blob/master/50.CPP_app.pdf">
         <p>This browser does not support PDFs. Please download the PDF to view it: <a href="50.CPP_app.pdf">Download PDF</a>.</p>
@@ -42,3 +44,21 @@ You can select styles for dark and light console color.
 ### Support or Contact
 
 Having trouble with Pages? Check out our [Game Center](aiegoo.github.io/) or [contact support](https://36io.co) and we’ll help you sort it out.
+
+`TL;DR`
+
+### dEvelopment story
+[project management](https://github.com/aiegoo/cplus/projects/1) 
+- Solo Flight background story
+<p style="align: center">
+I hate C++ as I rarely liked the language specific programmers. They are rare in numbers and alas in <br> characters too. But then it has been some paramount <br> challenge for me hard to climb it over, notwithstanding <br> becoming one, I admit. I still have the reservation <br> to start on this path, but who knows the future?
+</p>
+### Game process
+
+![step 1 & 2](images/obstruction1.png)
+<hr>
+
+![step 3 & 4](images/obstruction2.png)
+<hr>
+
+![step 5 & 6](images/obstruction3.png)
