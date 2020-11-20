@@ -33,6 +33,17 @@ Here is the key rules of the game
 
 [Link](url) and ![Image](src)
 ```
+### winning strategy
+
+<table border="1">
+<tbody><tr align="center" height="20"><td bgcolor="#cccccc" width="20">&nbsp;</td><td bgcolor="#cccccc" width="20">&nbsp;</td><td bgcolor="#cccccc" width="20">&nbsp;</td><td bgcolor="#cccccc" width="20">&nbsp;</td><td width="20">O</td></tr>
+<tr align="center" height="20"><td bgcolor="#cccccc">&nbsp;</td><td>X</td><td bgcolor="#cccccc">&nbsp;</td><td bgcolor="#cccccc">&nbsp;</td><td bgcolor="#cccccc">&nbsp;</td></tr>
+<tr align="center" height="20"><td bgcolor="#cccccc">&nbsp;</td><td bgcolor="#cccccc">&nbsp;</td><td bgcolor="#cccccc">&nbsp;</td><td bgcolor="#cccccc">&nbsp;</td><td>O</td></tr>
+<tr align="center" height="20"><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="#cccccc">&nbsp;</td><td bgcolor="#cccccc">&nbsp;</td></tr>
+<tr align="center" height="20"><td>&nbsp;</td><td>&nbsp;</td><td>&nbsp;</td><td bgcolor="#cccccc">&nbsp;</td><td>X</td></tr>
+</tbody></table>
+
+
 
 For more details see [blog](http://www.papg.com/show?2XMX).
 
