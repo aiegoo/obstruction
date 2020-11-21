@@ -2,3 +2,5 @@ X:\Unity Projects\PuzzleGame\cplus\ObstructionGame\Debug\ObstructionGame.exe
 X:\Unity Projects\PuzzleGame\cplus\ObstructionGame\Debug\ObstructionGame.pdb
 D:\repo\school\rapa\projects\cplus\ObstructionGame\Debug\ObstructionGame.exe
 D:\repo\school\rapa\projects\cplus\ObstructionGame\Debug\ObstructionGame.pdb
+C:\Users\onoff\repos\obstruction\ObstructionGame\Debug\ObstructionGame.exe
+C:\Users\onoff\repos\obstruction\ObstructionGame\Debug\ObstructionGame.pdb
