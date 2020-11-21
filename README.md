@@ -62,7 +62,7 @@ Having trouble with running Obstruction? Check out our [Game Center](aiegoo.gith
 [project management](https://github.com/aiegoo/cplus/projects/1) 
 - Solo Flight and my view on C++
 <p style="text-align: center">
-I hate C++ as I rarely liked the language specific programmers. They are rare in numbers and <br>alas an odd sorts in characters too. But then it has been some paramount challenge, as untasteful as ever for me <br>to dive into the school of programmers as a student, notwithstanding becoming one, I admit. I still have the reservation <br> to start on this path, but who knows the future? as I always believe in 'divde and conquer'.
+I hate C++ as I rarely liked the language specific programmers. They are rare in numbers and <br>alas an odd sorts in characters too. But then it has been some paramount challenge, as untasteful as ever for me <br>to dive into the school of programmers as a student, notwithstanding becoming one, I admit. <br>I still have the reservation to start on this path, but who knows the future? <br>as I always believe in 'divde and conquer'.
 </p>
 ### Game process
 The first player should hit 'o' on keyboard while 'x' for the 2nd player.
