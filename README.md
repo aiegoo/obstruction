@@ -14,7 +14,7 @@ Whenever you are done with one version of Obstruction, you can choose another Ta
 
 ### obstruction
 
-Obstruction is a territory game to play against each other in order to obsruct the opponent to dominate the world.
+Obstruction is a territory game to play against each other in order to obsruct the opponent to dominate the world of the game board.
 
 ```markdown
 Here is the key rules of the game
@@ -54,17 +54,18 @@ You can select styles for dark and light console color.
 
 ### Support or Contact
 
-Having trouble with Pages? Check out our [Game Center](aiegoo.github.io/) or [contact support](https://36io.co) and we’ll help you sort it out.
+Having trouble with running Obstruction? Check out our [Game Center](aiegoo.github.io/obstruction) or [contact support](https://36io.co) and we’ll help you sort it out.
 
 `TL;DR`
 
 ### dEvelopment story
 [project management](https://github.com/aiegoo/cplus/projects/1) 
-- Solo Flight background story
-<p style="align: center">
-I hate C++ as I rarely liked the language specific programmers. They are rare in numbers and alas in <br> characters too. But then it has been some paramount <br> challenge for me hard to climb it over, notwithstanding <br> becoming one, I admit. I still have the reservation <br> to start on this path, but who knows the future?
+- Solo Flight and my view on C++
+<p style="text-align: center">
+I hate C++ as I rarely liked the language specific programmers. They are rare in numbers and alas an odd sorts in characters too.<br> But then it has been some paramount challenge, as untasteful as ever for me <br>to dive into the school of programmers as a student, notwithstanding becoming one, I admit. I still have the reservation <br> to start on this path, but who knows the future? as I always believe in 'divde and conquer'.
 </p>
 ### Game process
+The first player should hit 'o' on keyboard while 'x' for the 2nd player.
 
 ![step 1 & 2](images/obstruction1.png)
 <hr>
