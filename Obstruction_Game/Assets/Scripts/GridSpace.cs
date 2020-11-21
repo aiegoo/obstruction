@@ -10,6 +10,7 @@ public class GridSpace : MonoBehaviour
     public Text buttonText;
     public string playerSymbol;
 
+
     public void buttonClick()
     {
 
