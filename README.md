@@ -17,11 +17,18 @@ Whenever you are done with one version of Obstruction, you can choose another Ta
 Obstruction is a territory game to play against each other in order to obsruct the opponent to dominate the world of the game board.
 
 ```markdown
-Here is the key rules of the game
+Here is the key rules of the game development
 
-# rule 1
-## rule 2
+# rule 1 - console game
+1. use the ncurses and modular codes for game objects and features
+2. try to make it a cross-platform (turned out to be a tall order as libraries used are speciic to each platform.) 
+## rule 2 - Unity 2D
+1. Grid, preFabs, code snippets
+2. Play music
+3. Game control
+4. make either an IOS or Android app
 ### rule 3
+1. 
 
 - Bulleted
 - List
@@ -34,6 +41,7 @@ Here is the key rules of the game
 [Link](url) and ![Image](src)
 ```
 ### winning strategy
+board size is important as an odd-sized board tends to make the first player win easily by mirring the 2nd player move. In other cases, try to form a 'L' shape of nodes for each move, from which a player can force out the opponent leaving no room to place at the end of the game. 
 
 <table border="1">
 <tbody><tr align="center" height="20"><td bgcolor="#cccccc" width="20">&nbsp;</td><td bgcolor="#cccccc" width="20">&nbsp;</td><td bgcolor="#cccccc" width="20">&nbsp;</td><td bgcolor="#cccccc" width="20">&nbsp;</td><td width="20">O</td></tr>
@@ -74,3 +82,20 @@ The first player should hit 'o' on keyboard while 'x' for the 2nd player.
 <hr>
 
 ![step 5 & 6](images/obstruction3.png)
+
+### dEvelopment overview 
+1. ide (C++, C#)
+    - Visual Studio 2019
+    - VS Code
+    - Unity
+
+2. Game idea 
+    - www.cs.ukzn.ac.za - ncurses manual 
+    - http://www.papg.com/show?2XN0 - game concept
+    
+3. Project term
+    - period 1; planning coding: 2 nights
+    - period 2; testing: 1 night
+    - peirod 3; Unity: 2 nights
+    - period 4; Deployment: a couple of hours
+    
