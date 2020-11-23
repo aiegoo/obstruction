@@ -27,14 +27,13 @@ Here is the key rules of the game development
 2. Play music
 3. Game control
 4. make either an IOS or Android app
-### rule 3
-1. 
-
-- Bulleted
-- List
-
-1. Numbered
-2. List
+### Deployable results (to be completed)
+1. for windows
+    git checkout -b v0.1w git@github.com:aiegoo/obstruction
+2. for linux
+    git checkout -b v0.1Lx git@github.com:aiegoo/obstruction
+3. for Unity
+    to be continued (see the session recordings via Anydesk)
 
 **Player** and _Opponent_ and `Territory` wqar
 
